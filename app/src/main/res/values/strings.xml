@@ -3,4 +3,7 @@
     <string name="weather_in_london">Weather in London</string>
     <string name="get_result">Get result</string>
     <string name="info_will_be_here">info will be here</string>
+    <string name="no_connection_message">No internet connection</string>
+    <string name="service_unavailable">service_unavailable</string>
+    <string name="weather_in_ulyanovsk">"Weather in Ulyanovsk "</string>
 </resources>
